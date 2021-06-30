@@ -1,4 +1,21 @@
 {
+  "CF120968128": {
+    "contest_id": 520,
+    "language": "GNU C++17",
+    "path": "codeforces\\520\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Pangram",
+    "problem_url": "https://codeforces.com/contest/520/problem/A",
+    "submission_id": "CF120968128",
+    "submission_url": "https://codeforces.com/contest/520/submission/120968128",
+    "tags": [
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Jun/30/2021 22:09"
+  },
   "CF120969092": {
     "contest_id": 1506,
     "language": "GNU C++17",
