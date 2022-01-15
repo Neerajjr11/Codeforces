@@ -12,8 +12,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-5 | [A - Min Or Sum](https://codeforces.com/contest/1635/problem/A) | [GNU C++17](./codeforces/1635/A.cpp) | `bitmasks` `greedy` `*800` | Jun/13/2022 20:42 | 
-4 | [B - Avoid Local Maximums](https://codeforces.com/contest/1635/problem/B) | [GNU C++17](./codeforces/1635/B.cpp) | `greedy` `*800` | Feb/20/2022 20:45 | 
-3 | [B - MEX and Array](https://codeforces.com/contest/1637/problem/B) | [GNU C++17](./codeforces/1637/B.cpp) | `brute force` `dp` `greedy` `math` `*1100` | Feb/12/2022 21:12 | 
-2 | [A - Sorting Parts](https://codeforces.com/contest/1637/problem/A) | [GNU C++17](./codeforces/1637/A.cpp) | `brute force` `sortings` `*800` | Feb/12/2022 20:25 | 
-1 | [A - Spy Detected!](https://codeforces.com/contest/1512/problem/A) | [GNU C++17](./codeforces/1512/A.cpp) | `brute force` `implementation` `*800` | Jan/29/2022 20:28 | 
+6 | [A - Min Or Sum](https://codeforces.com/contest/1635/problem/A) | [GNU C++17](./codeforces/1635/A.cpp) | `bitmasks` `greedy` `*800` | Jun/13/2022 20:42 | 
+5 | [B - Avoid Local Maximums](https://codeforces.com/contest/1635/problem/B) | [GNU C++17](./codeforces/1635/B.cpp) | `greedy` `*800` | Feb/20/2022 20:45 | 
+4 | [B - MEX and Array](https://codeforces.com/contest/1637/problem/B) | [GNU C++17](./codeforces/1637/B.cpp) | `brute force` `dp` `greedy` `math` `*1100` | Feb/12/2022 21:12 | 
+3 | [A - Sorting Parts](https://codeforces.com/contest/1637/problem/A) | [GNU C++17](./codeforces/1637/A.cpp) | `brute force` `sortings` `*800` | Feb/12/2022 20:25 | 
+2 | [A - Spy Detected!](https://codeforces.com/contest/1512/problem/A) | [GNU C++17](./codeforces/1512/A.cpp) | `brute force` `implementation` `*800` | Jan/29/2022 20:28 | 
+1 | [C - Not Assigning](https://codeforces.com/contest/1627/problem/C) | [GNU C++17](./codeforces/1627/C.cpp) | `constructive algorithms` `dfs and similar` `number theory` `trees` `*1400` | Jan/15/2022 22:03 | 
