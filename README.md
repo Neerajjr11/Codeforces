@@ -12,4 +12,5 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-1 | [A - Min Or Sum](https://codeforces.com/contest/1635/problem/A) | [GNU C++17](./codeforces/1635/A.cpp) | `bitmasks` `greedy` `*800` | Jun/13/2022 20:42 | 
+2 | [A - Min Or Sum](https://codeforces.com/contest/1635/problem/A) | [GNU C++17](./codeforces/1635/A.cpp) | `bitmasks` `greedy` `*800` | Jun/13/2022 20:42 | 
+1 | [B - Avoid Local Maximums](https://codeforces.com/contest/1635/problem/B) | [GNU C++17](./codeforces/1635/B.cpp) | `greedy` `*800` | Feb/20/2022 20:45 | 
