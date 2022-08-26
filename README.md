@@ -1,7 +1,8 @@
 Submissions
 ======================
-#> *Auto-generated with ❤ using [Harwest](https://github.com/nileshsah/harwest-tool)*
-
+<!---
+> *Auto-generated with ❤ using [Harwest](https://github.com/nileshsah/harwest-tool)*
+-->
 ## Introduction
 
 A repository to keep track of problem solving practice, containing solutions from platforms:
