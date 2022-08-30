@@ -1,43 +1,49 @@
 #include<bits/stdc++.h>
-#include<stdio.h>
 using namespace std;
-
+ 
 #define ll long long
-#define fr(i,n)        for(int i=0;i<n;i++)
-ll ok[200015],b[200015];
+ll checking[999999];
+ll books[200015];
 int main()
 {
-    ll n,i,k,l,ans,m;
+    ios_base::sync_with_stdio(0);
+        cin.tie(0);
+        cout.tie(0);
+    ll n,k,l,ans,m;
     cin>>n;
-    ll  p;
+    int input;
     queue<ll>q;
-
-    fr(i,n)
+    int p;
+    for(int i=0;i<n;i++)
     {
         cin>>p;
         q.push( p);
     }
-    fr(i,n) scanf("%lld",&b[i]);
-    fr(i,n)
+    for(int i=0;i<n;i++)
+    { cin>>books[i];
+        
+    }
+    for(int i=0;i<n;i++)
     {
         cin>>m;
         ans=0;
-        if(ok[b[i] ])
+        if(checking[books[i] ])
         {
             ans=0;
-            cout<<ans<<' ';continue;
+            cout<<ans<<' ';
         }
-
+ 
         else{
         while(true)
         {
-            ll g=q.front();
-            ok[g]=1;
+            int check = q.front();
+            checking[check]=1;
             ans++;
             q.pop();
-            if(b[i]==g)break;
+            if(books[i]==check)break;
         }
         cout<<ans<<' ';
     }
+    cout<<endl;
   }
 }
