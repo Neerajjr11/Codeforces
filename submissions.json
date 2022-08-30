@@ -443,5 +443,22 @@
       "*800"
     ],
     "timestamp": "Jun/13/2022 20:42"
+  },
+  "CF170276615": {
+    "contest_id": 1073,
+    "language": "GNU C++17",
+    "path": "codeforces\\1073\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Vasya and Books",
+    "problem_url": "https://codeforces.com/contest/1073/problem/B",
+    "submission_id": "CF170276615",
+    "submission_url": "https://codeforces.com/contest/1073/submission/170276615",
+    "tags": [
+      "implementation",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Aug/30/2022 21:54"
   }
 }
