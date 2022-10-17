@@ -607,5 +607,22 @@
       "*800"
     ],
     "timestamp": "Oct/17/2022 18:07"
+  },
+  "CF176692986": {
+    "contest_id": 1675,
+    "language": "GNU C++17",
+    "path": "codeforces\\1675\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Food for Animals",
+    "problem_url": "https://codeforces.com/contest/1675/problem/A",
+    "submission_id": "CF176692986",
+    "submission_url": "https://codeforces.com/contest/1675/submission/176692986",
+    "tags": [
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Oct/17/2022 19:28"
   }
 }
