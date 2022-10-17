@@ -624,5 +624,21 @@
       "*800"
     ],
     "timestamp": "Oct/17/2022 19:28"
+  },
+  "CF176711033": {
+    "contest_id": 1743,
+    "language": "GNU C++17",
+    "path": "codeforces\\1743\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Password",
+    "problem_url": "https://codeforces.com/contest/1743/problem/A",
+    "submission_id": "CF176711033",
+    "submission_url": "https://codeforces.com/contest/1743/submission/176711033",
+    "tags": [
+      "combinatorics",
+      "implementation"
+    ],
+    "timestamp": "Oct/17/2022 20:15"
   }
 }
