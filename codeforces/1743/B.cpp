@@ -5,24 +5,11 @@ void solve()
 {
     int n;
     cin >> n;
-    int i = 1;
-    int j = n;
-    while (i <= j)
+    cout << 1 << " ";
+    for (int i = n; i > 1; i--)
     {
-        if (i == j)
-        {
-            cout << i;
-            i++;
-            j--;
-        }
-        else
-        {
-            cout << i << " " << j << " ";
-            i++;
-            j--;
-        }
+        cout << i << " ";
     }
-
     cout << endl;
 }
 int main()
