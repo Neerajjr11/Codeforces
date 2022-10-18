@@ -640,5 +640,21 @@
       "implementation"
     ],
     "timestamp": "Oct/17/2022 20:15"
+  },
+  "CF176823561": {
+    "contest_id": 1743,
+    "language": "GNU C++17",
+    "path": "codeforces\\1743\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Permutation Value",
+    "problem_url": "https://codeforces.com/contest/1743/problem/B",
+    "submission_id": "CF176823561",
+    "submission_url": "https://codeforces.com/contest/1743/submission/176823561",
+    "tags": [
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "Oct/18/2022 08:31"
   }
 }
