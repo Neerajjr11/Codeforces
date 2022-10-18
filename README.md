@@ -12,6 +12,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+38 | [C - Save the Magazines](https://codeforces.com/contest/1743/problem/C) | [GNU C++17](./codeforces/1743/C.cpp) | `constructive algorithms` `greedy` `sortings` `string suffix structures` `*1100` | Oct/18/2022 09:09 | 
 37 | [B - Permutation Value](https://codeforces.com/contest/1743/problem/B) | [GNU C++17](./codeforces/1743/B.cpp) | `greedy` `*800` | Oct/18/2022 08:31 | 
 36 | [A - Password](https://codeforces.com/contest/1743/problem/A) | [GNU C++17](./codeforces/1743/A.cpp) | `combinatorics` `implementation` | Oct/17/2022 20:15 | 
 35 | [A - Food for Animals](https://codeforces.com/contest/1675/problem/A) | [GNU C++17](./codeforces/1675/A.cpp) | `greedy` `math` `*800` | Oct/17/2022 19:28 | 

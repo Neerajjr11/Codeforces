@@ -656,5 +656,24 @@
       "*800"
     ],
     "timestamp": "Oct/18/2022 08:31"
+  },
+  "CF176825736": {
+    "contest_id": 1743,
+    "language": "GNU C++17",
+    "path": "codeforces\\1743\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Save the Magazines",
+    "problem_url": "https://codeforces.com/contest/1743/problem/C",
+    "submission_id": "CF176825736",
+    "submission_url": "https://codeforces.com/contest/1743/submission/176825736",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "sortings",
+      "string suffix structures",
+      "*1100"
+    ],
+    "timestamp": "Oct/18/2022 09:09"
   }
 }
