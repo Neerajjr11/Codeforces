@@ -675,5 +675,21 @@
       "*1100"
     ],
     "timestamp": "Oct/18/2022 09:09"
+  },
+  "CF176952113": {
+    "contest_id": 1686,
+    "language": "GNU C++17",
+    "path": "codeforces\\1686\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Everything Everywhere All But One",
+    "problem_url": "https://codeforces.com/contest/1686/problem/A",
+    "submission_id": "CF176952113",
+    "submission_url": "https://codeforces.com/contest/1686/submission/176952113",
+    "tags": [
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "Oct/19/2022 07:41"
   }
 }
