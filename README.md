@@ -12,9 +12,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-39 | [A - Everything Everywhere All But One](https://codeforces.com/contest/1686/problem/A) | [GNU C++17](./codeforces/1686/A.cpp) | `greedy` `*800` | Oct/19/2022 07:41 | 
-38 | [B - Permutation Value](https://codeforces.com/contest/1743/problem/B) | [GNU C++17](./codeforces/1743/B.cpp) | `greedy` `implementation` `*800` | Oct/18/2022 22:11 | 
-37 | [C - Save the Magazines](https://codeforces.com/contest/1743/problem/C) | [GNU C++17](./codeforces/1743/C.cpp) | `constructive algorithms` `greedy` `sortings` `string suffix structures` `*1100` | Oct/18/2022 09:09 | 
+39 | [C - Save the Magazines](https://codeforces.com/contest/1743/problem/C) | [GNU C++17](./codeforces/1743/C.cpp) | `constructive algorithms` `dp` `greedy` `*1100` | Oct/22/2022 16:54 | 
+38 | [A - Everything Everywhere All But One](https://codeforces.com/contest/1686/problem/A) | [GNU C++17](./codeforces/1686/A.cpp) | `greedy` `*800` | Oct/19/2022 07:41 | 
+37 | [B - Permutation Value](https://codeforces.com/contest/1743/problem/B) | [GNU C++17](./codeforces/1743/B.cpp) | `greedy` `implementation` `*800` | Oct/18/2022 22:11 | 
 36 | [A - Password](https://codeforces.com/contest/1743/problem/A) | [GNU C++17](./codeforces/1743/A.cpp) | `combinatorics` `implementation` | Oct/17/2022 20:15 | 
 35 | [A - Food for Animals](https://codeforces.com/contest/1675/problem/A) | [GNU C++17](./codeforces/1675/A.cpp) | `greedy` `math` `*800` | Oct/17/2022 19:28 | 
 34 | [B - Equal Candies](https://codeforces.com/contest/1676/problem/B) | [GNU C++17](./codeforces/1676/B.cpp) | `greedy` `math` `sortings` `*800` | Oct/17/2022 18:07 | 

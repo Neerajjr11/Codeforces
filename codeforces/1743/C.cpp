@@ -14,47 +14,39 @@ void solve()
         int inp;
         cin >> inp;
         arr.push_back(inp);
-        if (s[i] == '1')
-            ans += arr[i];
+        
     }
-    int idx = 0;
-    while (idx < n)
-    {
-        if (s[idx] == '1')
-            ++idx;
-        else
-            break;
-    }
-    while (idx < n)
-    {
-        int next = idx + 1;
-        if (next >= n or s[next] == '0')
-        {
-            idx++;
-            continue;
-        }
-        int remove = INT_MAX;
-        int op = idx + 1;
-        while (next < n and s[next] == '1')
-        {
-            if (arr[next] < remove)
-            {
-                remove = arr[next];
-                op = next;
+    int mini;
+    
+    for(int i = n-1;i>=0;){
+        if(s[i]=='1'){
+            mini = arr[i];
+            while(i>=0){
+                mini = min(mini,arr[i]);
+                if(s[i]=='1'){
+                    ans+=arr[i];
+                    i--;
+                }else{
+                    ans+=arr[i];
+                    i--;
+                    ans-=mini;
+                    break;
+                }
             }
-            next++;
+            
+        }else{
+            i--;
         }
-        if (remove < arr[idx])
-        {
-            ans -= remove;
-            ans += arr[idx];
-        }
-        idx = op;
     }
-    cout << ans << endl;
+    cout<<ans<<endl;
 }
 int main()
 {
+    ios_base::sync_with_stdio(false);
+    cin.tie(nullptr);
+    cout.tie(nullptr);
+    cout.precision(20);
+    cout.setf(ios::fixed);
     ll testcases;
     cin >> testcases;
     while (testcases--)
