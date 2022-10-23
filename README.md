@@ -12,8 +12,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-42 | [E - Wish I Knew How to Sort](https://codeforces.com/contest/1754/problem/E) | [GNU C++17](./codeforces/1754/E.cpp) | `dp` `dp` `probabilities` `probabilities` | Oct/23/2022 21:08 | 
-41 | [B - Kevin and Permutation](https://codeforces.com/contest/1754/problem/B) | [GNU C++17](./codeforces/1754/B.cpp) | `constructive algorithms` `constructive algorithms` `math` | Oct/23/2022 13:48 | 
+43 | [E - Wish I Knew How to Sort](https://codeforces.com/contest/1754/problem/E) | [GNU C++17](./codeforces/1754/E.cpp) | `dp` `dp` `probabilities` `probabilities` | Oct/23/2022 21:08 | 
+42 | [B - Kevin and Permutation](https://codeforces.com/contest/1754/problem/B) | [GNU C++17](./codeforces/1754/B.cpp) | `constructive algorithms` `constructive algorithms` `math` | Oct/23/2022 13:48 | 
+41 | [A - Technical Support](https://codeforces.com/contest/1754/problem/A) | [GNU C++17](./codeforces/1754/A.cpp) |  | Oct/23/2022 13:40 | 
 40 | [B - Even-Odd Increments ](https://codeforces.com/contest/1744/problem/B) | [GNU C++17](./codeforces/1744/B.cpp) | `implementation` `math` `*800` | Oct/22/2022 18:29 | 
 39 | [C - Save the Magazines](https://codeforces.com/contest/1743/problem/C) | [GNU C++17](./codeforces/1743/C.cpp) | `constructive algorithms` `dp` `greedy` `*1100` | Oct/22/2022 16:54 | 
 38 | [A - Everything Everywhere All But One](https://codeforces.com/contest/1686/problem/A) | [GNU C++17](./codeforces/1686/A.cpp) | `greedy` `*800` | Oct/19/2022 07:41 | 
