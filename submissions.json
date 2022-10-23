@@ -744,6 +744,23 @@
     ],
     "timestamp": "Oct/22/2022 18:29"
   },
+  "CF177559646": {
+    "contest_id": 1754,
+    "language": "GNU C++17",
+    "path": "codeforces\\1754\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Kevin and Permutation",
+    "problem_url": "https://codeforces.com/contest/1754/problem/B",
+    "submission_id": "CF177559646",
+    "submission_url": "https://codeforces.com/contest/1754/submission/177559646",
+    "tags": [
+      "constructive algorithms",
+      "constructive algorithms",
+      "math"
+    ],
+    "timestamp": "Oct/23/2022 13:48"
+  },
   "CF177667072": {
     "contest_id": 1754,
     "language": "GNU C++17",
