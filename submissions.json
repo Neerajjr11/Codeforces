@@ -792,6 +792,22 @@
     ],
     "timestamp": "Oct/23/2022 21:08"
   },
+  "CF177782406": {
+    "contest_id": 1754,
+    "language": "GNU C++17",
+    "path": "codeforces\\1754\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Factorial Divisibility",
+    "problem_url": "https://codeforces.com/contest/1754/problem/D",
+    "submission_id": "CF177782406",
+    "submission_url": "https://codeforces.com/contest/1754/submission/177782406",
+    "tags": [
+      "math",
+      "*1600"
+    ],
+    "timestamp": "Oct/24/2022 20:51"
+  },
   "CF177852484": {
     "contest_id": 1619,
     "language": "GNU C++17",

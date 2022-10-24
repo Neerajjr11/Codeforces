@@ -12,7 +12,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-44 | [B - Squares and Cubes](https://codeforces.com/contest/1619/problem/B) | [GNU C++17](./codeforces/1619/B.cpp) | `implementation` `math` `*800` | Oct/25/2022 14:53 | 
+45 | [B - Squares and Cubes](https://codeforces.com/contest/1619/problem/B) | [GNU C++17](./codeforces/1619/B.cpp) | `implementation` `math` `*800` | Oct/25/2022 14:53 | 
+44 | [D - Factorial Divisibility](https://codeforces.com/contest/1754/problem/D) | [GNU C++17](./codeforces/1754/D.cpp) | `math` `*1600` | Oct/24/2022 20:51 | 
 43 | [E - Wish I Knew How to Sort](https://codeforces.com/contest/1754/problem/E) | [GNU C++17](./codeforces/1754/E.cpp) | `dp` `dp` `probabilities` `probabilities` | Oct/23/2022 21:08 | 
 42 | [B - Kevin and Permutation](https://codeforces.com/contest/1754/problem/B) | [GNU C++17](./codeforces/1754/B.cpp) | `constructive algorithms` `constructive algorithms` `math` | Oct/23/2022 13:48 | 
 41 | [A - Technical Support](https://codeforces.com/contest/1754/problem/A) | [GNU C++17](./codeforces/1754/A.cpp) |  | Oct/23/2022 13:40 | 
