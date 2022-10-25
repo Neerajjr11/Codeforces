@@ -791,5 +791,22 @@
       "probabilities"
     ],
     "timestamp": "Oct/23/2022 21:08"
+  },
+  "CF177852484": {
+    "contest_id": 1619,
+    "language": "GNU C++17",
+    "path": "codeforces\\1619\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Squares and Cubes",
+    "problem_url": "https://codeforces.com/contest/1619/problem/B",
+    "submission_id": "CF177852484",
+    "submission_url": "https://codeforces.com/contest/1619/submission/177852484",
+    "tags": [
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Oct/25/2022 14:53"
   }
 }
