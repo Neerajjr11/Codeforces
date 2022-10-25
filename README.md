@@ -12,6 +12,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+46 | [A - Fair Playoff](https://codeforces.com/contest/1535/problem/A) | [GNU C++17](./codeforces/1535/A.cpp) | `brute force` `implementation` `*800` | Oct/25/2022 17:44 | 
 45 | [B - Squares and Cubes](https://codeforces.com/contest/1619/problem/B) | [GNU C++17](./codeforces/1619/B.cpp) | `implementation` `math` `*800` | Oct/25/2022 14:53 | 
 44 | [D - Factorial Divisibility](https://codeforces.com/contest/1754/problem/D) | [GNU C++17](./codeforces/1754/D.cpp) | `math` `*1600` | Oct/24/2022 20:51 | 
 43 | [E - Wish I Knew How to Sort](https://codeforces.com/contest/1754/problem/E) | [GNU C++17](./codeforces/1754/E.cpp) | `dp` `dp` `probabilities` `probabilities` | Oct/23/2022 21:08 | 
