@@ -12,6 +12,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+50 | [A - Even Odds](https://codeforces.com/contest/318/problem/A) | [GNU C++17](./codeforces/318/A.cpp) | `math` `*900` | Oct/26/2022 21:20 | 
 49 | [A - Boy or Girl](https://codeforces.com/contest/236/problem/A) | [GNU C++17](./codeforces/236/A.cpp) | `brute force` `implementation` `strings` `*800` | Oct/25/2022 22:49 | 
 48 | [A - Young Physicist](https://codeforces.com/contest/69/problem/A) | [GNU C++17](./codeforces/69/A.cpp) | `implementation` `math` `*1000` | Oct/25/2022 18:55 | 
 47 | [A - Nearly Lucky Number](https://codeforces.com/contest/110/problem/A) | [GNU C++17](./codeforces/110/A.cpp) | `implementation` `*800` | Oct/25/2022 18:35 | 
