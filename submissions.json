@@ -1040,5 +1040,22 @@
       "*800"
     ],
     "timestamp": "Nov/01/2022 12:08"
+  },
+  "CF178767705": {
+    "contest_id": 281,
+    "language": "GNU C++17",
+    "path": "codeforces\\281\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Word Capitalization",
+    "problem_url": "https://codeforces.com/contest/281/problem/A",
+    "submission_id": "CF178767705",
+    "submission_url": "https://codeforces.com/contest/281/submission/178767705",
+    "tags": [
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Nov/01/2022 12:17"
   }
 }
