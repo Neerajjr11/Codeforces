@@ -12,6 +12,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+58 | [A - Team](https://codeforces.com/contest/231/problem/A) | [GNU C++17](./codeforces/231/A.cpp) | `brute force` `greedy` `*800` | Nov/01/2022 12:08 | 
 57 | [A - Game of Life](https://codeforces.com/contest/1523/problem/A) | [GNU C++17](./codeforces/1523/A.cpp) | `implementation` `*800` | Oct/31/2022 10:41 | 
 56 | [C - Bricks and Bags](https://codeforces.com/contest/1740/problem/C) | [GNU C++17](./codeforces/1740/C.cpp) | `constructive algorithms` `games` `greedy` `sortings` | Oct/29/2022 16:39 | 
 55 | [B - Jumbo Extra Cheese 2](https://codeforces.com/contest/1740/problem/B) | [GNU C++17](./codeforces/1740/B.cpp) | `geometry` `greedy` `sortings` | Oct/29/2022 15:17 | 
