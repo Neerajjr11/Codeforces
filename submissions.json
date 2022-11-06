@@ -1222,5 +1222,21 @@
       "*800"
     ],
     "timestamp": "Nov/05/2022 22:02"
+  },
+  "CF179573556": {
+    "contest_id": 1750,
+    "language": "GNU C++17",
+    "path": "codeforces\\1750\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Maximum Substring",
+    "problem_url": "https://codeforces.com/contest/1750/problem/B",
+    "submission_id": "CF179573556",
+    "submission_url": "https://codeforces.com/contest/1750/submission/179573556",
+    "tags": [
+      "brute force",
+      "greedy"
+    ],
+    "timestamp": "Nov/06/2022 20:24"
   }
 }
