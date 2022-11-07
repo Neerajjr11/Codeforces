@@ -1305,6 +1305,22 @@
     ],
     "timestamp": "Nov/07/2022 16:57"
   },
+  "CF179968941": {
+    "contest_id": 1560,
+    "language": "GNU C++17",
+    "path": "codeforces\\1560\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Dislike of Threes",
+    "problem_url": "https://codeforces.com/contest/1560/problem/A",
+    "submission_id": "CF179968941",
+    "submission_url": "https://codeforces.com/contest/1560/submission/179968941",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Nov/07/2022 18:22"
+  },
   "CF179969417": {
     "contest_id": 1560,
     "language": "GNU C++17",
