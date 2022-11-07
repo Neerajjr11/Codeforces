@@ -1288,5 +1288,21 @@
       "*800"
     ],
     "timestamp": "Nov/07/2022 14:41"
+  },
+  "CF179959405": {
+    "contest_id": 1633,
+    "language": "GNU C++17",
+    "path": "codeforces\\1633\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Div. 7",
+    "problem_url": "https://codeforces.com/contest/1633/problem/A",
+    "submission_id": "CF179959405",
+    "submission_url": "https://codeforces.com/contest/1633/submission/179959405",
+    "tags": [
+      "brute force",
+      "*800"
+    ],
+    "timestamp": "Nov/07/2022 16:57"
   }
 }
