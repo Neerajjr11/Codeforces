@@ -1569,6 +1569,24 @@
     ],
     "timestamp": "Nov/17/2022 16:50"
   },
+  "CF181794189": {
+    "contest_id": 1761,
+    "language": "GNU C++17",
+    "path": "codeforces/1761/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Set Construction",
+    "problem_url": "https://codeforces.com/contest/1761/problem/C",
+    "submission_id": "CF181794189",
+    "submission_url": "https://codeforces.com/contest/1761/submission/181794189",
+    "tags": [
+      "constructive algorithms",
+      "dfs and similar",
+      "graphs",
+      "greedy"
+    ],
+    "timestamp": "Nov/20/2022 22:00"
+  },
   "CF181879585": {
     "contest_id": 1520,
     "language": "GNU C++17",
