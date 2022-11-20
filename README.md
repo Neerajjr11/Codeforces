@@ -12,9 +12,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-92 | [C - Thermostat](https://codeforces.com/contest/1759/problem/C) | [GNU C++17](./codeforces/1759/C.cpp) | `greedy` `math` `shortest paths` `*1100` | Nov/21/2022 18:06 | 
-91 | [A - Do Not Be Distracted!](https://codeforces.com/contest/1520/problem/A) | [GNU C++17](./codeforces/1520/A.cpp) | `brute force` `implementation` `*800` | Nov/21/2022 17:59 | 
-90 | [C - Set Construction](https://codeforces.com/contest/1761/problem/C) | [GNU C++17](./codeforces/1761/C.cpp) | `constructive algorithms` `dfs and similar` `graphs` `greedy` | Nov/20/2022 22:00 | 
+93 | [C - Thermostat](https://codeforces.com/contest/1759/problem/C) | [GNU C++17](./codeforces/1759/C.cpp) | `greedy` `math` `shortest paths` `*1100` | Nov/21/2022 18:06 | 
+92 | [A - Do Not Be Distracted!](https://codeforces.com/contest/1520/problem/A) | [GNU C++17](./codeforces/1520/A.cpp) | `brute force` `implementation` `*800` | Nov/21/2022 17:59 | 
+91 | [C - Set Construction](https://codeforces.com/contest/1761/problem/C) | [GNU C++17](./codeforces/1761/C.cpp) | `constructive algorithms` `dfs and similar` `graphs` `greedy` | Nov/20/2022 22:00 | 
+90 | [B - Elimination of a Ring](https://codeforces.com/contest/1761/problem/B) | [GNU C++17](./codeforces/1761/B.cpp) | `constructive algorithms` `greedy` `implementation` | Nov/20/2022 20:51 | 
 89 | [A - Soft Drinking](https://codeforces.com/contest/151/problem/A) | [GNU C++17](./codeforces/151/A.cpp) | `implementation` `math` `*800` | Nov/17/2022 16:50 | 
 88 | [A - Fox And Snake](https://codeforces.com/contest/510/problem/A) | [GNU C++17](./codeforces/510/A.cpp) | `implementation` `*800` | Nov/16/2022 17:23 | 
 87 | [A - IQ test](https://codeforces.com/contest/25/problem/A) | [GNU C++17](./codeforces/25/A.cpp) | `brute force` `*1300` | Nov/15/2022 15:54 | 
