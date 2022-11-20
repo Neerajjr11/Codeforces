@@ -1569,6 +1569,22 @@
     ],
     "timestamp": "Nov/17/2022 16:50"
   },
+  "CF181763309": {
+    "contest_id": 1761,
+    "language": "GNU C++17",
+    "path": "codeforces/1761/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Two Permutations",
+    "problem_url": "https://codeforces.com/contest/1761/problem/A",
+    "submission_id": "CF181763309",
+    "submission_url": "https://codeforces.com/contest/1761/submission/181763309",
+    "tags": [
+      "brute force",
+      "constructive algorithms"
+    ],
+    "timestamp": "Nov/20/2022 20:28"
+  },
   "CF181774085": {
     "contest_id": 1761,
     "language": "GNU C++17",
