@@ -295,8 +295,7 @@ void solve()
         cin >> q[i];
     }
     sort(rall(q));
-    int low = 0;
-    int high = 1e9;
+    int low = 0, high = inf;
     while (low < high)
     {
         int mid = (low + high + 1) / 2;
