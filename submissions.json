@@ -1723,6 +1723,24 @@
     ],
     "timestamp": "Nov/21/2022 18:55"
   },
+  "CF181927002": {
+    "contest_id": 1760,
+    "language": "GNU C++17",
+    "path": "codeforces\\1760\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Advantage",
+    "problem_url": "https://codeforces.com/contest/1760/problem/C",
+    "submission_id": "CF181927002",
+    "submission_url": "https://codeforces.com/contest/1760/submission/181927002",
+    "tags": [
+      "data structures",
+      "implementation",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Nov/21/2022 20:19"
+  },
   "CF181991197": {
     "contest_id": 1760,
     "language": "GNU C++17",
