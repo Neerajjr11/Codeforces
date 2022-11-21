@@ -1705,5 +1705,22 @@
       "*800"
     ],
     "timestamp": "Nov/21/2022 18:20"
+  },
+  "CF181885976": {
+    "contest_id": 1455,
+    "language": "GNU C++17",
+    "path": "codeforces/1455/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Strange Functions",
+    "problem_url": "https://codeforces.com/contest/1455/problem/A",
+    "submission_id": "CF181885976",
+    "submission_url": "https://codeforces.com/contest/1455/submission/181885976",
+    "tags": [
+      "math",
+      "number theory",
+      "*800"
+    ],
+    "timestamp": "Nov/21/2022 18:55"
   }
 }
