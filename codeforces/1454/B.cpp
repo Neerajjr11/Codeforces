@@ -48,7 +48,23 @@ typedef vt<double> vd;
 typedef vt<pii> vpi;
 typedef vt<string> vs;
 typedef vt<vi> vvi;
-
+// inline int read()
+// {
+//     char ch = getchar();
+//     int x = 0, f = 1;
+//     while (ch < '0' || ch > '9')
+//     {
+//         if (ch == '-')
+//             f = -1;
+//         ch = getchar();
+//     }
+//     while (ch >= '0' && ch <= '9')
+//     {
+//         x  = x * 10 + ch - '0';
+//         ch = getchar();
+//     }
+//     return x * f;
+// }
 
 class custom_hash
 {
