@@ -1723,6 +1723,22 @@
     ],
     "timestamp": "Nov/21/2022 18:55"
   },
+  "CF182661488": {
+    "contest_id": 1764,
+    "language": "GNU C++17",
+    "path": "codeforces\\1764\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Doremy's Paint",
+    "problem_url": "https://codeforces.com/contest/1764/problem/A",
+    "submission_id": "CF182661488",
+    "submission_url": "https://codeforces.com/contest/1764/submission/182661488",
+    "tags": [
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "Nov/26/2022 19:49"
+  },
   "CF182667509": {
     "contest_id": 1764,
     "language": "GNU C++17",
