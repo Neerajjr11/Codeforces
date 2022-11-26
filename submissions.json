@@ -1723,6 +1723,23 @@
     ],
     "timestamp": "Nov/21/2022 18:55"
   },
+  "CF182695798": {
+    "contest_id": 1764,
+    "language": "GNU C++17",
+    "path": "codeforces\\1764\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Doremy's City Construction",
+    "problem_url": "https://codeforces.com/contest/1764/problem/C",
+    "submission_id": "CF182695798",
+    "submission_url": "https://codeforces.com/contest/1764/submission/182695798",
+    "tags": [
+      "graphs",
+      "greedy",
+      "*1400"
+    ],
+    "timestamp": "Nov/26/2022 21:48"
+  },
   "CF183158635": {
     "contest_id": 1607,
     "language": "GNU C++17",
