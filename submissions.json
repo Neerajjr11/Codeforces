@@ -1723,6 +1723,23 @@
     ],
     "timestamp": "Nov/21/2022 18:55"
   },
+  "CF183158635": {
+    "contest_id": 1607,
+    "language": "GNU C++17",
+    "path": "codeforces\\1607\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Linear Keyboard",
+    "problem_url": "https://codeforces.com/contest/1607/problem/A",
+    "submission_id": "CF183158635",
+    "submission_url": "https://codeforces.com/contest/1607/submission/183158635",
+    "tags": [
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Nov/29/2022 14:33"
+  },
   "CF183158661": {
     "contest_id": 1629,
     "language": "GNU C++17",
