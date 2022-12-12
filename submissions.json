@@ -2197,6 +2197,22 @@
     ],
     "timestamp": "Dec/10/2022 15:55"
   },
+  "CF184918943": {
+    "contest_id": 1766,
+    "language": "GNU C++17",
+    "path": "codeforces\\1766\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Extremely Round",
+    "problem_url": "https://codeforces.com/contest/1766/problem/A",
+    "submission_id": "CF184918943",
+    "submission_url": "https://codeforces.com/contest/1766/submission/184918943",
+    "tags": [
+      "implementation",
+      "math"
+    ],
+    "timestamp": "Dec/12/2022 20:19"
+  },
   "CF184944107": {
     "contest_id": 1766,
     "language": "GNU C++17",
