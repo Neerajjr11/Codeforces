@@ -2197,6 +2197,23 @@
     ],
     "timestamp": "Dec/10/2022 15:55"
   },
+  "CF184944107": {
+    "contest_id": 1766,
+    "language": "GNU C++17",
+    "path": "codeforces\\1766\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Notepad#",
+    "problem_url": "https://codeforces.com/contest/1766/problem/B",
+    "submission_id": "CF184944107",
+    "submission_url": "https://codeforces.com/contest/1766/submission/184944107",
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation"
+    ],
+    "timestamp": "Dec/12/2022 20:57"
+  },
   "CF184971533": {
     "contest_id": 1766,
     "language": "GNU C++17",
