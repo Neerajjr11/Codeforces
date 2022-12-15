@@ -2555,6 +2555,24 @@
     ],
     "timestamp": "Dec/14/2022 18:33"
   },
+  "CF185358064": {
+    "contest_id": 1762,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1762\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Binary Strings are Fun",
+    "problem_url": "https://codeforces.com/contest/1762/problem/C",
+    "submission_id": "CF185358064",
+    "submission_url": "https://codeforces.com/contest/1762/submission/185358064",
+    "tags": [
+      "combinatorics",
+      "fft",
+      "math",
+      "meet-in-the-middle"
+    ],
+    "timestamp": "Dec/15/2022 22:01"
+  },
   "CF185499558": {
     "contest_id": 1767,
     "language": "GNU C++20 (64)",
