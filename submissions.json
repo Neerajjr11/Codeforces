@@ -2555,6 +2555,22 @@
     ],
     "timestamp": "Dec/14/2022 18:33"
   },
+  "CF185529501": {
+    "contest_id": 1767,
+    "language": "GNU C++17",
+    "path": "codeforces\\1767\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Cut the Triangle",
+    "problem_url": "https://codeforces.com/contest/1767/problem/A",
+    "submission_id": "CF185529501",
+    "submission_url": "https://codeforces.com/contest/1767/submission/185529501",
+    "tags": [
+      "geometry",
+      "implementation"
+    ],
+    "timestamp": "Dec/16/2022 21:54"
+  },
   "CF185535811": {
     "contest_id": 1767,
     "language": "GNU C++17",
