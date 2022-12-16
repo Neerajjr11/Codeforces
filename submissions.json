@@ -2554,5 +2554,23 @@
       "*1100"
     ],
     "timestamp": "Dec/14/2022 18:33"
+  },
+  "CF185535811": {
+    "contest_id": 1767,
+    "language": "GNU C++17",
+    "path": "codeforces\\1767\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Playoff",
+    "problem_url": "https://codeforces.com/contest/1767/problem/D",
+    "submission_id": "CF185535811",
+    "submission_url": "https://codeforces.com/contest/1767/submission/185535811",
+    "tags": [
+      "constructive algorithms",
+      "dp",
+      "greedy",
+      "number theory"
+    ],
+    "timestamp": "Dec/16/2022 22:13"
   }
 }
