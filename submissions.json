@@ -2657,5 +2657,22 @@
       "number theory"
     ],
     "timestamp": "Dec/16/2022 22:13"
+  },
+  "CF185682356": {
+    "contest_id": 1774,
+    "language": "GNU C++17",
+    "path": "codeforces\\1774\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Ice and Fire",
+    "problem_url": "https://codeforces.com/contest/1774/problem/C",
+    "submission_id": "CF185682356",
+    "submission_url": "https://codeforces.com/contest/1774/submission/185682356",
+    "tags": [
+      "constructive algorithms",
+      "dp",
+      "greedy"
+    ],
+    "timestamp": "Dec/17/2022 21:19"
   }
 }
