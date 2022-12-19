@@ -12,11 +12,12 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-155 | [B - Coloring](https://codeforces.com/contest/1774/problem/B) | [GNU C++17](./codeforces/1774/B.cpp) | `constructive algorithms` `greedy` `math` `*1500` | Dec/19/2022 17:48 | 
+156 | [B - Incinerate](https://codeforces.com/contest/1763/problem/B) | [GNU C++17](./codeforces/1763/B.cpp) | `binary search` `brute force` `sortings` | Dec/19/2022 21:28 | 
+155 | [A - Greg's Workout](https://codeforces.com/contest/255/problem/A) | [GNU C++17](./codeforces/255/A.cpp) | `implementation` `*800` | Dec/19/2022 17:48 | 
 154 | [A - Worms Evolution](https://codeforces.com/contest/31/problem/A) | [GNU C++17](./codeforces/31/A.cpp) | `implementation` `*1200` | Dec/19/2022 17:48 | 
-153 | [A - Greg's Workout](https://codeforces.com/contest/255/problem/A) | [GNU C++17](./codeforces/255/A.cpp) | `implementation` `*800` | Dec/19/2022 17:48 | 
-152 | [A - Levko and Table](https://codeforces.com/contest/361/problem/A) | [GNU C++17](./codeforces/361/A.cpp) | `constructive algorithms` `implementation` `*800` | Dec/19/2022 17:47 | 
-151 | [A - Football](https://codeforces.com/contest/43/problem/A) | [GNU C++17](./codeforces/43/A.cpp) | `strings` `*1000` | Dec/19/2022 17:47 | 
+153 | [B - Coloring](https://codeforces.com/contest/1774/problem/B) | [GNU C++17](./codeforces/1774/B.cpp) | `constructive algorithms` `greedy` `math` `*1500` | Dec/19/2022 17:48 | 
+152 | [A - Football](https://codeforces.com/contest/43/problem/A) | [GNU C++17](./codeforces/43/A.cpp) | `strings` `*1000` | Dec/19/2022 17:47 | 
+151 | [A - Levko and Table](https://codeforces.com/contest/361/problem/A) | [GNU C++17](./codeforces/361/A.cpp) | `constructive algorithms` `implementation` `*800` | Dec/19/2022 17:47 | 
 150 | [C - Ice and Fire](https://codeforces.com/contest/1774/problem/C) | [GNU C++17](./codeforces/1774/C.cpp) | `constructive algorithms` `dp` `greedy` | Dec/17/2022 21:19 | 
 149 | [A - Add Plus Minus Sign](https://codeforces.com/contest/1774/problem/A) | [GNU C++17](./codeforces/1774/A.cpp) | `constructive algorithms` `math` | Dec/17/2022 20:18 | 
 148 | [D - Playoff](https://codeforces.com/contest/1767/problem/D) | [GNU C++17](./codeforces/1767/D.cpp) | `constructive algorithms` `dp` `greedy` `number theory` | Dec/16/2022 22:13 | 

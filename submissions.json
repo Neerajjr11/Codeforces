@@ -2773,5 +2773,22 @@
       "*1500"
     ],
     "timestamp": "Dec/19/2022 17:48"
+  },
+  "CF185997699": {
+    "contest_id": 1763,
+    "language": "GNU C++17",
+    "path": "codeforces\\1763\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Incinerate",
+    "problem_url": "https://codeforces.com/contest/1763/problem/B",
+    "submission_id": "CF185997699",
+    "submission_url": "https://codeforces.com/contest/1763/submission/185997699",
+    "tags": [
+      "binary search",
+      "brute force",
+      "sortings"
+    ],
+    "timestamp": "Dec/19/2022 21:28"
   }
 }
