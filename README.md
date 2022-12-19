@@ -12,7 +12,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-156 | [B - Incinerate](https://codeforces.com/contest/1763/problem/B) | [GNU C++17](./codeforces/1763/B.cpp) | `binary search` `brute force` `sortings` | Dec/19/2022 21:28 | 
+157 | [B - Incinerate](https://codeforces.com/contest/1763/problem/B) | [GNU C++17](./codeforces/1763/B.cpp) | `binary search` `brute force` `sortings` | Dec/19/2022 21:28 | 
+156 | [A - Absolute Maximization](https://codeforces.com/contest/1763/problem/A) | [GNU C++17](./codeforces/1763/A.cpp) | `bitmasks` `bitmasks` `bitmasks` `bitmasks` `bitmasks` `bitmasks` `bitmasks` `bitmasks` `bitmasks` `bitmasks` `bitmasks` `greedy` | Dec/19/2022 20:15 | 
 155 | [A - Greg's Workout](https://codeforces.com/contest/255/problem/A) | [GNU C++17](./codeforces/255/A.cpp) | `implementation` `*800` | Dec/19/2022 17:48 | 
 154 | [A - Worms Evolution](https://codeforces.com/contest/31/problem/A) | [GNU C++17](./codeforces/31/A.cpp) | `implementation` `*1200` | Dec/19/2022 17:48 | 
 153 | [B - Coloring](https://codeforces.com/contest/1774/problem/B) | [GNU C++17](./codeforces/1774/B.cpp) | `constructive algorithms` `greedy` `math` `*1500` | Dec/19/2022 17:48 | 
