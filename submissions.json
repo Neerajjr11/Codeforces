@@ -2817,6 +2817,22 @@
     ],
     "timestamp": "Dec/19/2022 21:28"
   },
+  "CF186889959": {
+    "contest_id": 1731,
+    "language": "GNU C++17",
+    "path": "codeforces\\1731\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Joey Takes Money",
+    "problem_url": "https://codeforces.com/contest/1731/problem/A",
+    "submission_id": "CF186889959",
+    "submission_url": "https://codeforces.com/contest/1731/submission/186889959",
+    "tags": [
+      "greedy",
+      "math"
+    ],
+    "timestamp": "Dec/27/2022 20:11"
+  },
   "CF186925211": {
     "contest_id": 1731,
     "language": "GNU C++17",
