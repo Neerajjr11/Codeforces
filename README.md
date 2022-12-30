@@ -12,8 +12,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-165 | [C - Koxia and Number Theory](https://codeforces.com/contest/1770/problem/C) | [GNU C++20 (64)](./codeforces/1770/C.cpp) | `chinese remainder theorem` `math` `number theory` | Dec/30/2022 22:34 | 
-164 | [B - Koxia and Permutation](https://codeforces.com/contest/1770/problem/B) | [GNU C++20 (64)](./codeforces/1770/B.cpp) | `constructive algorithms` `greedy` | Dec/30/2022 20:43 | 
+166 | [C - Koxia and Number Theory](https://codeforces.com/contest/1770/problem/C) | [GNU C++20 (64)](./codeforces/1770/C.cpp) | `chinese remainder theorem` `math` `number theory` | Dec/30/2022 22:34 | 
+165 | [B - Koxia and Permutation](https://codeforces.com/contest/1770/problem/B) | [GNU C++20 (64)](./codeforces/1770/B.cpp) | `constructive algorithms` `greedy` | Dec/30/2022 20:43 | 
+164 | [A - Koxia and Whiteboards](https://codeforces.com/contest/1770/problem/A) | [GNU C++20 (64)](./codeforces/1770/A.cpp) | `brute force` `greedy` | Dec/30/2022 20:36 | 
 163 | [B - GCD Arrays](https://codeforces.com/contest/1629/problem/B) | [GNU C++20 (64)](./codeforces/1629/B.cpp) | `greedy` `math` `number theory` `*800` | Dec/30/2022 15:40 | 
 162 | [A - Red and Blue Beans](https://codeforces.com/contest/1519/problem/A) | [GNU C++20 (64)](./codeforces/1519/A.cpp) | `math` `*800` | Dec/30/2022 15:25 | 
 161 | [A - Mean Inequality](https://codeforces.com/contest/1526/problem/A) | [GNU C++17](./codeforces/1526/A.cpp) | `constructive algorithms` `sortings` `*800` | Dec/30/2022 15:06 | 
