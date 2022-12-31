@@ -2965,5 +2965,22 @@
       "number theory"
     ],
     "timestamp": "Dec/30/2022 22:34"
+  },
+  "CF187416314": {
+    "contest_id": 4,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\4\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Before an Exam",
+    "problem_url": "https://codeforces.com/contest/4/problem/B",
+    "submission_id": "CF187416314",
+    "submission_url": "https://codeforces.com/contest/4/submission/187416314",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "*1200"
+    ],
+    "timestamp": "Dec/31/2022 12:29"
   }
 }
