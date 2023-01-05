@@ -2983,6 +2983,22 @@
     ],
     "timestamp": "Dec/31/2022 12:29"
   },
+  "CF188082976": {
+    "contest_id": 1768,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1768\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Quick Sort",
+    "problem_url": "https://codeforces.com/contest/1768/problem/B",
+    "submission_id": "CF188082976",
+    "submission_url": "https://codeforces.com/contest/1768/submission/188082976",
+    "tags": [
+      "greedy",
+      "math"
+    ],
+    "timestamp": "Jan/05/2023 20:44"
+  },
   "CF188108809": {
     "contest_id": 1768,
     "language": "GNU C++20 (64)",
