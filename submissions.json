@@ -3050,5 +3050,20 @@
       "*800"
     ],
     "timestamp": "Jan/07/2023 16:27"
+  },
+  "CF188479063": {
+    "contest_id": 1783,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1783\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Matrix of Differences",
+    "problem_url": "https://codeforces.com/contest/1783/problem/B",
+    "submission_id": "CF188479063",
+    "submission_url": "https://codeforces.com/contest/1783/submission/188479063",
+    "tags": [
+      "constructive algorithms"
+    ],
+    "timestamp": "Jan/08/2023 21:20"
   }
 }
