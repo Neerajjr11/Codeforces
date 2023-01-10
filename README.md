@@ -12,8 +12,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-175 | [B - Gardener and the Array](https://codeforces.com/contest/1775/problem/B) | [GNU C++20 (64)](./codeforces/1775/B.cpp) | `bitmasks` `constructive algorithms` | Jan/10/2023 18:08 | 
-174 | [A2 - Gardener and the Capybaras (hard version)](https://codeforces.com/contest/1775/problem/A2) | [GNU C++20 (64)](./codeforces/1775/A2.cpp) | `constructive algorithms` `greedy` `implementation` `strings` | Jan/10/2023 17:43 | 
+176 | [B - Gardener and the Array](https://codeforces.com/contest/1775/problem/B) | [GNU C++20 (64)](./codeforces/1775/B.cpp) | `bitmasks` `constructive algorithms` | Jan/10/2023 18:08 | 
+175 | [A2 - Gardener and the Capybaras (hard version)](https://codeforces.com/contest/1775/problem/A2) | [GNU C++20 (64)](./codeforces/1775/A2.cpp) | `constructive algorithms` `greedy` `implementation` `strings` | Jan/10/2023 17:43 | 
+174 | [A1 - Gardener and the Capybaras (easy version)](https://codeforces.com/contest/1775/problem/A1) | [GNU C++20 (64)](./codeforces/1775/A1.cpp) | `brute force` `implementation` `strings` | Jan/10/2023 17:14 | 
 173 | [B - Matrix of Differences](https://codeforces.com/contest/1783/problem/B) | [GNU C++20 (64)](./codeforces/1783/B.cpp) | `constructive algorithms` | Jan/08/2023 21:20 | 
 172 | [A - Make it Beautiful](https://codeforces.com/contest/1783/problem/A) | [GNU C++20 (64)](./codeforces/1783/A.cpp) | `constructive algorithms` `sortings` | Jan/08/2023 20:15 | 
 171 | [A - Construct a Rectangle](https://codeforces.com/contest/1622/problem/A) | [GNU C++20 (64)](./codeforces/1622/A.cpp) | `geometry` `math` `*800` | Jan/07/2023 16:27 | 
