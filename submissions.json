@@ -3132,5 +3132,23 @@
       "constructive algorithms"
     ],
     "timestamp": "Jan/10/2023 18:08"
+  },
+  "CF190530890": {
+    "contest_id": 1780,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1780\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "GCD Partition",
+    "problem_url": "https://codeforces.com/contest/1780/problem/B",
+    "submission_id": "CF190530890",
+    "submission_url": "https://codeforces.com/contest/1780/submission/190530890",
+    "tags": [
+      "brute force",
+      "greedy",
+      "math",
+      "number theory"
+    ],
+    "timestamp": "Jan/25/2023 20:45"
   }
 }
