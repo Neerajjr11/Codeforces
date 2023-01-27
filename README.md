@@ -12,14 +12,15 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-191 | [A - Favorite Sequence](https://codeforces.com/contest/1462/problem/A) | [GNU C++20 (64)](./codeforces/1462/A.cpp) | `implementation` `two pointers` `*800` | Feb/03/2023 23:00 | 
-190 | [A - Sereja and Dima](https://codeforces.com/contest/381/problem/A) | [GNU C++20 (64)](./codeforces/381/A.cpp) | `greedy` `implementation` `two pointers` `*800` | Feb/03/2023 22:48 | 
-189 | [B - Rebellion](https://codeforces.com/contest/1746/problem/B) | [GNU C++20 (64)](./codeforces/1746/B.cpp) | `constructive algorithms` `greedy` `two pointers` `*800` | Feb/03/2023 21:47 | 
-188 | [C - Remove the Bracket](https://codeforces.com/contest/1787/problem/C) | [GNU C++20 (64)](./codeforces/1787/C.cpp) | `dp` `greedy` `math` `*1600` | Jan/29/2023 21:59 | 
-187 | [B - Number Factorization](https://codeforces.com/contest/1787/problem/B) | [GNU C++20 (64)](./codeforces/1787/B.cpp) | `greedy` `math` `number theory` `*1100` | Jan/29/2023 20:47 | 
-186 | [A - Exponential Equation](https://codeforces.com/contest/1787/problem/A) | [GNU C++20 (64)](./codeforces/1787/A.cpp) | `constructive algorithms` `math` `*800` | Jan/29/2023 20:11 | 
-185 | [C - Premutation](https://codeforces.com/contest/1790/problem/C) | [GNU C++20 (64)](./codeforces/1790/C.cpp) | `brute force` `implementation` `math` | Jan/27/2023 21:44 | 
-184 | [E - Vlad and a Pair of Numbers](https://codeforces.com/contest/1790/problem/E) | [GNU C++20 (64)](./codeforces/1790/E.cpp) | `bitmasks` `constructive algorithms` | Jan/27/2023 21:36 | 
+192 | [A - Favorite Sequence](https://codeforces.com/contest/1462/problem/A) | [GNU C++20 (64)](./codeforces/1462/A.cpp) | `implementation` `two pointers` `*800` | Feb/03/2023 23:00 | 
+191 | [A - Sereja and Dima](https://codeforces.com/contest/381/problem/A) | [GNU C++20 (64)](./codeforces/381/A.cpp) | `greedy` `implementation` `two pointers` `*800` | Feb/03/2023 22:48 | 
+190 | [B - Rebellion](https://codeforces.com/contest/1746/problem/B) | [GNU C++20 (64)](./codeforces/1746/B.cpp) | `constructive algorithms` `greedy` `two pointers` `*800` | Feb/03/2023 21:47 | 
+189 | [C - Remove the Bracket](https://codeforces.com/contest/1787/problem/C) | [GNU C++20 (64)](./codeforces/1787/C.cpp) | `dp` `greedy` `math` `*1600` | Jan/29/2023 21:59 | 
+188 | [B - Number Factorization](https://codeforces.com/contest/1787/problem/B) | [GNU C++20 (64)](./codeforces/1787/B.cpp) | `greedy` `math` `number theory` `*1100` | Jan/29/2023 20:47 | 
+187 | [A - Exponential Equation](https://codeforces.com/contest/1787/problem/A) | [GNU C++20 (64)](./codeforces/1787/A.cpp) | `constructive algorithms` `math` `*800` | Jan/29/2023 20:11 | 
+186 | [C - Premutation](https://codeforces.com/contest/1790/problem/C) | [GNU C++20 (64)](./codeforces/1790/C.cpp) | `brute force` `implementation` `math` | Jan/27/2023 21:44 | 
+185 | [E - Vlad and a Pair of Numbers](https://codeforces.com/contest/1790/problem/E) | [GNU C++20 (64)](./codeforces/1790/E.cpp) | `bitmasks` `constructive algorithms` | Jan/27/2023 21:36 | 
+184 | [D - Matryoshkas](https://codeforces.com/contest/1790/problem/D) | [GNU C++20 (64)](./codeforces/1790/D.cpp) | `data structures` `greedy` `sortings` | Jan/27/2023 21:26 | 
 183 | [B - GCD Partition](https://codeforces.com/contest/1780/problem/B) | [GNU C++20 (64)](./codeforces/1780/B.cpp) | `brute force` `greedy` `math` `number theory` | Jan/25/2023 20:45 | 
 182 | [A - Hayato and School](https://codeforces.com/contest/1780/problem/A) | [GNU C++20 (64)](./codeforces/1780/A.cpp) | `constructive algorithms` `greedy` | Jan/25/2023 20:23 | 
 181 | [C - Min Max Sort](https://codeforces.com/contest/1792/problem/C) | [GNU C++20 (64)](./codeforces/1792/C.cpp) | `binary search` `brute force` `greedy` `math` `two pointers` | Jan/24/2023 22:06 | 
