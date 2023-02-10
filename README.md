@@ -12,11 +12,12 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-197 | [A - Medium Number](https://codeforces.com/contest/1760/problem/A) | [GNU C++20 (64)](./codeforces/1760/A.cpp) | `implementation` `sortings` `*800` | Feb/10/2023 21:35 | 
-196 | [A - Make it Beautiful](https://codeforces.com/contest/1783/problem/A) | [GNU C++20 (64)](./codeforces/1783/A.cpp) | `constructive algorithms` `math` `sortings` `*800` | Feb/10/2023 21:34 | 
-195 | [B - Going to the Cinema](https://codeforces.com/contest/1781/problem/B) | [GNU C++20 (64)](./codeforces/1781/B.cpp) | `brute force` `greedy` `sortings` `*1000` | Feb/10/2023 21:29 | 
-194 | [C - K-th Not Divisible by n](https://codeforces.com/contest/1352/problem/C) | [GNU C++20 (64)](./codeforces/1352/C.cpp) | `binary search` `math` `*1200` | Feb/10/2023 21:19 | 
-193 | [B - Two Arrays And Swaps](https://codeforces.com/contest/1353/problem/B) | [GNU C++20 (64)](./codeforces/1353/B.cpp) | `greedy` `sortings` `*800` | Feb/10/2023 21:05 | 
+198 | [A - Medium Number](https://codeforces.com/contest/1760/problem/A) | [GNU C++20 (64)](./codeforces/1760/A.cpp) | `implementation` `sortings` `*800` | Feb/10/2023 21:35 | 
+197 | [A - Make it Beautiful](https://codeforces.com/contest/1783/problem/A) | [GNU C++20 (64)](./codeforces/1783/A.cpp) | `constructive algorithms` `math` `sortings` `*800` | Feb/10/2023 21:34 | 
+196 | [B - Going to the Cinema](https://codeforces.com/contest/1781/problem/B) | [GNU C++20 (64)](./codeforces/1781/B.cpp) | `brute force` `greedy` `sortings` `*1000` | Feb/10/2023 21:29 | 
+195 | [C - K-th Not Divisible by n](https://codeforces.com/contest/1352/problem/C) | [GNU C++20 (64)](./codeforces/1352/C.cpp) | `binary search` `math` `*1200` | Feb/10/2023 21:19 | 
+194 | [B - Two Arrays And Swaps](https://codeforces.com/contest/1353/problem/B) | [GNU C++20 (64)](./codeforces/1353/B.cpp) | `greedy` `sortings` `*800` | Feb/10/2023 21:05 | 
+193 | [A - Median Maximization](https://codeforces.com/contest/1566/problem/A) | [GNU C++20 (64)](./codeforces/1566/A.cpp) | `binary search` `greedy` `math` `*800` | Feb/10/2023 21:01 | 
 192 | [A - Favorite Sequence](https://codeforces.com/contest/1462/problem/A) | [GNU C++20 (64)](./codeforces/1462/A.cpp) | `implementation` `two pointers` `*800` | Feb/03/2023 23:00 | 
 191 | [A - Sereja and Dima](https://codeforces.com/contest/381/problem/A) | [GNU C++20 (64)](./codeforces/381/A.cpp) | `greedy` `implementation` `two pointers` `*800` | Feb/03/2023 22:48 | 
 190 | [B - Rebellion](https://codeforces.com/contest/1746/problem/B) | [GNU C++20 (64)](./codeforces/1746/B.cpp) | `constructive algorithms` `greedy` `two pointers` `*800` | Feb/03/2023 21:47 | 
