@@ -288,10 +288,12 @@ void solve()
     vi a(n);
     read(a);
     if (allEqual(a))
+    {
         print("NO");
+        return;
+    }
     else
     {
-        sort(all(a));
         print("YES");
         int i = 0;
         int j = n - 1;
@@ -301,7 +303,6 @@ void solve()
             i++;
             j--;
         }
-
         if (n % 2 != 0)
             cout << a[i];
         print();
