@@ -279,10 +279,7 @@ void IOS()
 void solve()
 {
     vi a(3);
-    rep(i, 0, 3)
-    {
-        cin >> a[i];
-    }
+    read(a);
     sort(all(a));
     print(a[1]);
 }

@@ -3440,5 +3440,22 @@
       "*800"
     ],
     "timestamp": "Feb/03/2023 23:00"
+  },
+  "CF193084798": {
+    "contest_id": 1760,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1760\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Medium Number",
+    "problem_url": "https://codeforces.com/contest/1760/problem/A",
+    "submission_id": "CF193084798",
+    "submission_url": "https://codeforces.com/contest/1760/submission/193084798",
+    "tags": [
+      "implementation",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Feb/10/2023 21:35"
   }
 }
