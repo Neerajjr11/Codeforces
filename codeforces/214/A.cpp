@@ -281,9 +281,9 @@ void solve()
     int n, m;
     read(n, m);
     int res = 0;
-    rep(i, 0, 100)
+    rep(i, 0, 1000)
     {
-        rep(j, 0, 100)
+        rep(j, 0, 1000)
         {
             if (((i * i) + j == n) && ((j * j) + i == m))
                 res++;
