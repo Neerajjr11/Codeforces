@@ -283,7 +283,6 @@ void solve()
     //   then diff = remainder - y
     //   ans = n - diff
     // case 2 : remainder < y
-    // that means answer is in the previous segment
     //  n = n - (remainder + 1)
     // remainder = n mod x
     // follow case 1
@@ -298,7 +297,7 @@ void solve()
         return;
     }
     else
-    {   // shift to the previous segment 
+    {
         n = n - (rem + 1);
         rem = n % x;
         if (rem >= y)
