@@ -3662,5 +3662,22 @@
       "*900"
     ],
     "timestamp": "Nov/09/2023 16:56"
+  },
+  "CF232059630": {
+    "contest_id": 1269,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1269\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Equation",
+    "problem_url": "https://codeforces.com/contest/1269/problem/A",
+    "submission_id": "CF232059630",
+    "submission_url": "https://codeforces.com/contest/1269/submission/232059630",
+    "tags": [
+      "brute force",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Nov/09/2023 17:06"
   }
 }
