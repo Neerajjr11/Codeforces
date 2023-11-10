@@ -280,15 +280,16 @@ void solve()
 {
     string s;
     read(s);
-    int stk = 1;
+    stack<char> st;
+    st.push(s[0]);
     rep(i, 1, s.size())
     {
-        if (s[i] == 'B' && stk)
-            stk--;
+        if (s[i] == 'B' && !st.empty())
+            st.pop();
         else
-            stk++;
+            st.push(s[i]);
     }
-    print(stk);
+    print(st.size());
 }
 int32_t main()
 {
