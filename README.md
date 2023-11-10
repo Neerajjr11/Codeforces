@@ -12,8 +12,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-206 | [B - Binary Removals](https://codeforces.com/contest/1499/problem/B) | [GNU C++20 (64)](./codeforces/1499/B.cpp) | `brute force` `dp` `greedy` `implementation` `*1000` | Nov/10/2023 22:32 | 
-205 | [C - Kill the Monster](https://codeforces.com/contest/1633/problem/C) | [GNU C++20 (64)](./codeforces/1633/C.cpp) | `brute force` `math` `*1100` | Nov/10/2023 22:02 | 
+207 | [B - Binary Removals](https://codeforces.com/contest/1499/problem/B) | [GNU C++20 (64)](./codeforces/1499/B.cpp) | `brute force` `dp` `greedy` `implementation` `*1000` | Nov/10/2023 22:32 | 
+206 | [C - Kill the Monster](https://codeforces.com/contest/1633/problem/C) | [GNU C++20 (64)](./codeforces/1633/C.cpp) | `brute force` `math` `*1100` | Nov/10/2023 22:02 | 
+205 | [C - ABBB](https://codeforces.com/contest/1428/problem/C) | [GNU C++20 (64)](./codeforces/1428/C.cpp) | `brute force` `data structures` `greedy` `strings` `*1100` | Nov/10/2023 13:42 | 
 204 | [A - Split it!](https://codeforces.com/contest/1496/problem/A) | [GNU C++20 (64)](./codeforces/1496/A.cpp) | `brute force` `constructive algorithms` `greedy` `strings` `*900` | Nov/10/2023 12:56 | 
 203 | [A - Equation](https://codeforces.com/contest/1269/problem/A) | [GNU C++20 (64)](./codeforces/1269/A.cpp) | `brute force` `math` `*800` | Nov/09/2023 17:06 | 
 202 | [A - Hexadecimal's theorem](https://codeforces.com/contest/199/problem/A) | [GNU C++20 (64)](./codeforces/199/A.cpp) | `brute force` `constructive algorithms` `implementation` `number theory` `*900` | Nov/09/2023 16:56 | 
