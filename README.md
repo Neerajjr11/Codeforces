@@ -12,6 +12,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+208 | [A - In Search of an Easy Problem](https://codeforces.com/contest/1030/problem/A) | [GNU C++20 (64)](./codeforces/1030/A.cpp) | `implementation` `*800` | Nov/10/2023 22:40 | 
 207 | [B - Binary Removals](https://codeforces.com/contest/1499/problem/B) | [GNU C++20 (64)](./codeforces/1499/B.cpp) | `brute force` `dp` `greedy` `implementation` `*1000` | Nov/10/2023 22:32 | 
 206 | [C - Kill the Monster](https://codeforces.com/contest/1633/problem/C) | [GNU C++20 (64)](./codeforces/1633/C.cpp) | `brute force` `math` `*1100` | Nov/10/2023 22:02 | 
 205 | [C - ABBB](https://codeforces.com/contest/1428/problem/C) | [GNU C++20 (64)](./codeforces/1428/C.cpp) | `brute force` `data structures` `greedy` `strings` `*1100` | Nov/10/2023 13:42 | 
