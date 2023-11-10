@@ -12,6 +12,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+205 | [A - Split it!](https://codeforces.com/contest/1496/problem/A) | [GNU C++20 (64)](./codeforces/1496/A.cpp) | `brute force` `constructive algorithms` `greedy` `strings` `*900` | Nov/10/2023 12:56 | 
 204 | [A - Equation](https://codeforces.com/contest/1269/problem/A) | [GNU C++20 (64)](./codeforces/1269/A.cpp) | `brute force` `math` `*800` | Nov/09/2023 17:06 | 
 203 | [A - Hexadecimal's theorem](https://codeforces.com/contest/199/problem/A) | [GNU C++20 (64)](./codeforces/199/A.cpp) | `brute force` `constructive algorithms` `implementation` `number theory` `*900` | Nov/09/2023 16:56 | 
 202 | [A - Required Remainder](https://codeforces.com/contest/1374/problem/A) | [GNU C++20 (64)](./codeforces/1374/A.cpp) | `math` `*800` | Nov/09/2023 15:09 | 
