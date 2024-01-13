@@ -3804,5 +3804,24 @@
       "*800"
     ],
     "timestamp": "Jan/13/2024 11:55"
+  },
+  "CF241363357": {
+    "contest_id": 339,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\339\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Helpful Maths",
+    "problem_url": "https://codeforces.com/contest/339/problem/A",
+    "submission_id": "CF241363357",
+    "submission_url": "https://codeforces.com/contest/339/submission/241363357",
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Jan/13/2024 12:22"
   }
 }
